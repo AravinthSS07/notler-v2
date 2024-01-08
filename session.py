@@ -1,0 +1,1 @@
+SESSION = {'loggedin':False}

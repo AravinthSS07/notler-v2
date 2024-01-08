@@ -1,0 +1,7 @@
+[theme]
+base="dark"
+primaryColor="#4bfff6"
+
+[client]
+showErrorDetails = false
+toolbarMode = "viewer"
